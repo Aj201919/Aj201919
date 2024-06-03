@@ -7,6 +7,5 @@
 - ⚡ Fun fact: ...
 
 <!---
-Aj201919/Aj201919 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Hello! I’m Ajay, a passionate data scientist with a keen interest in machine learning, data visualization, and natural language processing. I love diving into data and uncovering insights that can drive impactful decisions.
 --->
